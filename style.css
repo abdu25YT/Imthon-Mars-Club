@@ -1,0 +1,335 @@
+header {
+    background: #080435 45.37%;
+    padding-bottom: 50px;
+}
+
+.devolution {
+    position: relative;
+}
+
+.club_text {
+    color: white;
+    font-family: sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+}
+
+.demo {
+    border: 2px solid #9610FF;
+    width: 122px;
+    height: 44px;
+    top: 48px;
+    left: 1147px;
+    border-radius: 60px;
+    background-color: transparent;
+    color: white;
+}
+
+.Roadmap {
+    border: 2px solid #456AE7;
+    width: 122px;
+    height: 44px;
+    top: 48px;
+    left: 1147px;
+    border-radius: 60px;
+    background-color: transparent;
+    color: white;
+}
+
+.language {
+    border: none;
+    width: 122px;
+    height: 44px;
+    top: 48px;
+    left: 1147px;
+    border-radius: 60px;
+    background-color: transparent;
+    color: white;
+}
+
+.glav h2 {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    color: #5B41F5;
+    margin-left: 50px;
+}
+
+.glav span {
+    color: white;
+}
+
+.blog {
+    background: #5e00d0;
+    width: 1100px;
+    height: 300px;
+    top: 130px;
+    left: 10%;
+    border-radius: 7px;
+    position: absolute;
+}
+
+.blog_texts h1 {
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 110px;
+    font-weight: 800;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+
+.blog_texts h2 {
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 90px;
+    font-weight: 800;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+
+.blog_img img {
+    width: 300px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+main {
+    margin-top: 300px;
+}
+
+.h2 {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    width: 350px;
+    height: 26px;
+    top: 804px;
+    left: 397px;
+}
+
+.p {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 418px;
+    height: 72px;
+    top: 832px;
+    left: 420px;
+    color: #B9B7DC;
+    margin-left: 10px;
+}
+
+.horse_texts {
+    background-image: url(./img/horse.png);
+    width: 755px;
+    height: 407px;
+    top: 516px;
+    left: 389px;
+    border-radius: 7px;
+    padding-top: 300px;
+    margin-left: 15px;
+}
+
+.horse_texts_2 {
+    background-image: url(./img/hm.png);
+    width: 350px;
+    height: 200px;
+    border-radius: 7px;
+    padding-top: 130px;
+}
+
+.text_horse {
+    visibility: hidden;
+}
+
+.h2_2 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    width: 350px;
+    height: 26px;
+    top: 804px;
+    left: 397px;
+}
+
+.p_2 {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #B9B7DC;
+}
+
+.horse_img {
+    width: 368px;
+    height: 257px;
+    top: 959px;
+    left: 389px;
+    border-radius: 7px;
+}
+
+.horse_img img {
+    width: 368px;
+    height: 210px;
+    left: 389px;
+    border-radius: 7px;
+}
+
+.our {
+    width: 350px;
+    height: 72px;
+    top: 1272px;
+    left: 389px;
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    padding-top: 0px;
+}
+
+.tags-btn button {
+    border: 1px solid #5B41F5;
+    width: 61px;
+    height: 24.64px;
+    top: 1387px;
+    left: 389px;
+    border-radius: 5px;
+    color: #5B41F5;
+    margin-bottom: 50px;
+}
+
+.horses {
+    margin: 0 auto;
+}
+
+.horse-videos_3 .horse-video h2 {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.horse-videos_3 .horse-video p {
+    font-family: sans-serif;
+    font-size: 16px;
+    letter-spacing: 0em;
+}
+
+.horse_video_ {
+    width: 367px;
+    height: 394px;
+
+    border-radius: 5px;
+    border: 0.1px solid black;
+}
+
+.horse_video_2 {
+    width: 367px;
+    height: 207px;
+    border-radius: 5px;
+    border: 0.1px solid black;
+}
+
+.horse_video_3 {
+    width: 367px;
+    height: 400px;
+    top: 1657px;
+    left: 1163px;
+    border-radius: 5px;
+    border: 0.1px solid black;
+}
+
+.tags-btn_2 button {
+    border: 1px solid #5B41F5;
+    width: 61px;
+    height: 24.64px;
+    top: 1387px;
+    left: 389px;
+    border-radius: 5px;
+    color: #5B41F5;
+}
+
+.news h2 {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 18px;
+    letter-spacing: 0em;
+}
+
+.news p {
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #646464;
+    margin-top: 10px;
+}
+
+.news_img img {
+    width: 125px;
+    height: 69px;
+    top: 1746px;
+    left: 1194px;
+    border-radius: 7px;
+}
+
+.footer {
+    background: #080435 45.37%;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+.friend_btn button {
+    width: 261px;
+    height: 56px;
+    top: 2710px;
+    left: 390px;
+    border-radius: 60px;
+    border: 2px solid #456AE7;
+    background-color: transparent;
+    color: white;
+}
+
+
+.dem {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.footter {
+    height: 59px;
+    top: 2881px;
+    background-color: #06001D;
+    color: #FFFFFF;
+    font-family: sans-serif ;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
